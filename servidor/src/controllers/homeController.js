@@ -1,7 +1,8 @@
 exports.listaAtual = (req, res) =>{
-    res.send({"Agenda":[
+    const agenda = {"Agenda":[
         {"tarefa":"Comida"},
         {"tarefa":"Lavar Lousa"}
-    ]})
+    ]}
+    res.send(agenda)
     return
 }

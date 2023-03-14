@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-export const Form = styled.Form`
+export const Form = styled.form`
     height: 400px;
     min-width: 350px;
     background-color: #0d2436be;

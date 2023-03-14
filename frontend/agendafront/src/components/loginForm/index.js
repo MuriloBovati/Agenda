@@ -3,8 +3,7 @@ import { Form, Label } from "./style"
 const LoginForm = () => {
     return(
         <Form>
-            <Label for='usuario'>Usuario</Label>
-            <input type='text' name='usuario'/>
+            <Label>teste</Label>
         </Form>
 
     )

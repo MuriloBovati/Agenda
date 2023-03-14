@@ -1,7 +1,4 @@
 .App{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #414966;
+  background-color: white;
   height: 100vh;
 }
